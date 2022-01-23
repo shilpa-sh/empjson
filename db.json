@@ -3,5 +3,10 @@
     { "name": "Ram", "age": "26", "place": "Bangalore" },
     { "nmae": "Sham", "age": "32", "place": "Pune" },
     { "name": "Raj", "age": "30", "place": "Chennai" }
+  ],
+    "get": [
+    { "name": "John", "age": "40", "place": "UK" },
+    { "nmae": "Sham", "age": "32", "place": "Pune" },
+    { "name": "Raj", "age": "30", "place": "Chennai" }
   ]
 }
