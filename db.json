@@ -1,3 +1,9 @@
-[{name: "Ram", age: "26", place: "Blore"},
-                {name: "Sham", age: "32", place: "Pune"},
-                {name: "Raj", age: "30", place: "Chennai"}]
+{
+  "name": "Ram",
+  "age": 23,
+  "place": "Blore"
+},{  "name": "Sham",
+  "age": 30,
+  "place": "Pune"},{  "name": "Raj",
+  "age": 27,
+  "place": "Chennai"}
