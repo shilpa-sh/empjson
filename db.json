@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "name": "ram", "title": "ggg 2", "description": "this is description 1" },
-    { "id": 2, "title": "Post 2", "description": "this is description 2" },
-    { "id": 3, "title": "Post 3", "description": "this is description 3" }
+    { "name": "Ram", "age": "26", "place": "Bangalore" },
+    { "nmae": "Sham", "age": "32", "place": "Pune" },
+    { "name": "Raj", "age": "30", "place": "Chennai" }
   ]
 }
