@@ -2,4 +2,8 @@
   "name": "Ram",
   "age": 23,
   "place": "Blore"
-}
+},{  "name": "Sham",
+  "age": 30,
+  "place": "Pune"},{  "name": "Raj",
+  "age": 27,
+  "place": "Chennai"}
