@@ -1,10 +1,5 @@
 {
-  "posts": [
-    { "name": "John", "age": "40", "place": "UK" },
-    { "name": "Sham", "age": "32", "place": "Pune" },
-    { "name": "Raj", "age": "30", "place": "Chennai" }
-  ],
-    "get": [
+   "get": [
     { "name": "John", "age": "40", "place": "UK" },
     { "name": "Sham", "age": "32", "place": "Pune" },
     { "name": "Raj", "age": "30", "place": "Chennai" }
